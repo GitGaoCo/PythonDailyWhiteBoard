@@ -2,7 +2,7 @@
 ##### Questions comes from intenet resources #########
 
 
-
+##start to use pycharm
 
 #2019-09-06
 #This is how to convert from string exppression to equation
